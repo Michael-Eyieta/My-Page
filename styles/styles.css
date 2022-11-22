@@ -1,0 +1,32 @@
+body {
+    padding-top: 3rem;padding-bottom: 3rem;
+    background-image:url('/image/blue-g5c2ecfc35_1920.jpg');
+    background-repeat: repeat;
+    
+}
+
+h1,h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; border: 2px solid whitesmoke; margin-left: auto; margin-right: auto; background-color: wheat; text-align: center;
+} 
+
+p.abc {
+    color: blue; font-family: Verdana;
+}
+
+p.def {
+    color: rgb(255, 0, 0); font-family: Verdana;
+}
+
+p.pic {
+    text-align: center; 
+    padding-top: 2cm;   
+}
+
+p.geek {
+    text-align: center ;
+    width: "700"; 
+}
+
+p.title {
+   background-color: blanchedalmond;
+}
